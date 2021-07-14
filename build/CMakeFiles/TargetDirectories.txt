@@ -1,3 +1,0 @@
-/works/alert_code/build/CMakeFiles/rebuild_cache.dir
-/works/alert_code/build/CMakeFiles/alert.dir
-/works/alert_code/build/CMakeFiles/edit_cache.dir
