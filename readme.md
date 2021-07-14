@@ -1,4 +1,14 @@
 
+# Clone 후 설치
+```
+mkdir build && cd build
+cmake ..
+make
+cd ../bin
+./alert
+```
+
+
 # 사용방법
 ```
 // area class 선언
