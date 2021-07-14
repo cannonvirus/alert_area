@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/works/alert_code/build",
+  "command": "/usr/bin/g++-7   -I/works/alert_code/include -isystem /usr/local/include/opencv4   -std=c++17 -Wall -g   -o CMakeFiles/alert.dir/src/main.cpp.o -c /works/alert_code/src/main.cpp",
+  "file": "/works/alert_code/src/main.cpp"
+},
+{
+  "directory": "/works/alert_code/build",
+  "command": "/usr/bin/g++-7   -I/works/alert_code/include -isystem /usr/local/include/opencv4   -std=c++17 -Wall -g   -o CMakeFiles/alert.dir/src/my_area_check.cpp.o -c /works/alert_code/src/my_area_check.cpp",
+  "file": "/works/alert_code/src/my_area_check.cpp"
+}
+]

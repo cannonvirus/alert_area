@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/my_area_check.h
+iostream
+-
+math.h
+-
+vector
+-
+map
+-
+algorithm
+-
+
+/works/alert_code/src/main.cpp
+iostream
+-
+math.h
+-
+vector
+-
+map
+-
+algorithm
+-
+my_area_check.h
+/works/alert_code/src/my_area_check.h
+
+/works/alert_code/src/my_area_check.cpp
+my_area_check.h
+/works/alert_code/src/my_area_check.h
+
